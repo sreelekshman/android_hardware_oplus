@@ -11,6 +11,7 @@ persist.sys.display.iris.absent   u:object_r:system_oplus_iris_prop:s0
 oplus.fingerprint.      u:object_r:system_fingerprint_prop:s0
 oplus.optical.goodix.fp u:object_r:system_fingerprint_prop:s0
 gf.debug.               u:object_r:system_fingerprint_prop:s0
+oplus.optical.        u:object_r:system_fingerprint_prop:s0
 ro.boot.flash.locked    u:object_r:exported_system_prop:s0
 
 # Logging
